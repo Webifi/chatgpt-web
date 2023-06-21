@@ -37,6 +37,7 @@ While forming this summary:
 [[CHARACTER_NAME]] will not confuse my actions with theirs.
 [[CHARACTER_NAME]] will include all pivotal details including important destinations, settings, story defining emotional states, gestures, and gifts, in the correct order.
 [[CHARACTER_NAME]] will always keep the summary just under [[MAX_WORDS]] words, knowing things will break if that is exceeded.
+[[CHARACTER_NAME]], seriously, the summary MUST be under [[MAX_WORDS]] words.
 Give no explanations. Exclude prompts from system. Give no notes or warnings.
 Example response format: 
 ## [[CHARACTER_NAME]]'s memories:
